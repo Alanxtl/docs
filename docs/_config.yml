@@ -1,0 +1,25 @@
+title: Alanxtl 文档
+description: Alanxtl 的技术文档
+lang: zh-CN
+locale: zh_CN
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-relative-links
+
+remote_theme: carlosperate/jekyll-theme-rtd@v1.4.0
+
+url: https://alanxtl.github.io
+baseurl: /docs
+
+repo_url: https://github.com/Alanxtl/docs
+edit_on_github: true
+github_docs_folder: docs
+
+sticky_navigation: true
+prev_next_buttons_location: bottom
+search_enabled: true
+hljs_style: github
+hljs_languages: [bash, json, markdown, python, shell, yaml]
+admonitions: true
+mermaid: true
