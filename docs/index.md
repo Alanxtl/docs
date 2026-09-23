@@ -22,4 +22,8 @@ nav_order: 1
 
 - [服务管理与故障排查](operations/troubleshooting.md)：systemd、日志和常见故障
 
+## 办事指南
+
+- [实验室出国参会与报销指南](guides/overseas-conference-reimbursement.md)：出国参会审批、材料准备和回国报销流程
+
 > 文档中的密码、代理节点密钥和校园网账号均不应提交到 Git 仓库。

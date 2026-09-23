@@ -11,6 +11,8 @@ nav_order: 12
 /etc/campus-login/
 ```
 
+登录脚本源码见 GitHub：[Alanxtl/BIT-login](https://github.com/Alanxtl/BIT-login)。服务器上的 `/etc/campus-login/srun.py` 是当前部署版本，源码更新后需要经过验证再替换线上文件。
+
 目录中的主要文件：
 
 | 文件 | 用途 |
